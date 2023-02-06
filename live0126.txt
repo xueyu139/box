@@ -1,7 +1,4 @@
 新春快乐,#genre#
-1959年建国十周年庆典大阅兵（上）,https://txmov2.a.kwimgs.com/bs3/video-hls/5195183735067018647_hlshd15.m3u8
-1959年建国十周年庆典大阅兵（中）,https://txmov2.a.kwimgs.com/bs3/video-hls/5217138784309959532_hlshd15.m3u8
-1959年建国十周年庆典大阅兵（下）,https://txmov2.a.kwimgs.com/bs3/video-hls/5242190056578719861_hlshd15.m3u8
 CCTV1,http://xjayrf.eatuo.com:9901/tsfile/live/1020_1.m3u8
 CCTV10,http://xjayrf.eatuo.com:9901/tsfile/live/1030_1.m3u8
 CCTV12,http://xjayrf.eatuo.com:9901/tsfile/live/1032_1.m3u8
